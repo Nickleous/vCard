@@ -2,7 +2,7 @@
 
 Personal vCard site for Nick Blanchard, Owner/Operator of Bloom Homes Assisted Living & Memory Care in Brandon, Mississippi.
 
-Live site: https://nickleous.github.io/vCard/
+Live site: https://nickleous.github.io/vCard-Nick/
 
 ## Tabs
 - About: background and Bloom Homes services
